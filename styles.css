@@ -1,0 +1,62 @@
+body {
+
+    color: whitesmoke;
+    background: pink;
+    margin: 2px;
+    font-family: "Cormorant", serif;
+    margin-bottom : 100px;
+
+}
+
+header {
+    border-bottom: solid 2px  rgb(228, 232, 237); 
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(288, 232 , 237);
+}
+
+ .lindinhas{
+    background: #f3f3a3; 
+    padding-bottom: 40px;
+    padding-top: 60px; 
+    display: flex;
+    justify-content: center ;
+     
+    }
+
+.berreca { 
+margin-right: 10%; 
+}
+
+.berreca{color: black;
+}
+
+h1 {font-size: 40px
+}
+
+p {font-size: 20px 
+}
+
+.girls { display: flex;
+    overflow-x: auto;
+    gap: 10px; 
+}
+
+.princesas { padding-left:20px;
+    padding-right:20px ;
+}
+
+.girls img {
+    opacity: 0.8;
+    height: 210px;
+}
+
+.girls img:hover{
+    opacity: 1.0;
+    border: 1px solid black;
+}
+
+.princesas h2 {
+    color: rgb(228, 232, 237); 
+    
+}
